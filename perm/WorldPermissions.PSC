@@ -9,5 +9,6 @@ m1
 
 >> INTERNAL > Staff
 Nutelex
+Givranuke
 
 >> BANNEDPLAYERS > Banned
