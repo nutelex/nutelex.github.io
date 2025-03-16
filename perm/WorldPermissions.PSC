@@ -4,10 +4,18 @@
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
->> OWNERS > Admin
-m1
+>> SECURITER > secu
 
->> INTERNAL > Staff
+>> BAR > bar
+
+>> DJ > dj
+
+>> DIEUX > dj+bar+secu+spe
+Clem_BeatBox
+Givranuke
+djpaolomilano
 Nutelex
+
+>> ADMIN > dj+bar+secu
 
 >> BANNEDPLAYERS > Banned
