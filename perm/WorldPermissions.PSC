@@ -5,6 +5,7 @@
 //WorldCreator: MagmaMCNet
 
 >> SECURITER > secu
+caca
 hitler
 
 >> BAR > bar
