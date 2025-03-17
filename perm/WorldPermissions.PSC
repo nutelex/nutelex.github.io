@@ -7,7 +7,6 @@
 >> SECURITER > secu
 
 >> BAR > bar
-bob
 
 >> DJ > dj
 
