@@ -9,12 +9,13 @@
 >> BAR > bar
 
 >> DJ > dj
+hitler
 
 >> DIEUX > dj+bar+secu+spe
 Clem_BeatBox
 Givranuke
-djpaolomilano
 Nutelex
+djpaolomilano
 
 >> ADMIN > dj+bar+secu
 
