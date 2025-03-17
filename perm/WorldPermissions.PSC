@@ -10,7 +10,6 @@ mussolini
 >> BAR > bar
 
 >> DJ > dj
-hitler
 
 >> DIEUX > dj+bar+secu+spe
 Clem_BeatBox
