@@ -5,7 +5,6 @@
 //WorldCreator: MagmaMCNet
 
 >> SECURITER > secu
-caca
 hitler
 mussolini
 
