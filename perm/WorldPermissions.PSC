@@ -6,6 +6,7 @@
 
 >> SECURITER > secu
 DiabloSeven
+Noxysis
 Sharwarmax
 Xios67
 Zyend
