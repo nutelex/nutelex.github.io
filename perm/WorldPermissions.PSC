@@ -19,5 +19,6 @@ Nutelex
 djpaolomilano
 
 >> ADMIN > dj+bar+secu
+rajiokakumeifm
 
 >> BANNEDPLAYERS > Banned
