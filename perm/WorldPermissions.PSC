@@ -5,7 +5,6 @@
 //WorldCreator: MagmaMCNet
 
 >> SECURITER > secu
-test
 
 >> BAR > bar
 
