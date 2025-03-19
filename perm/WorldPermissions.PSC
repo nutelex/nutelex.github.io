@@ -16,7 +16,6 @@ Zyend
 >> BAR > bar
 Venom_fireX
 anne-qc
-anne_qc
 
 >> DJ > dj
 L4CH4NC3
