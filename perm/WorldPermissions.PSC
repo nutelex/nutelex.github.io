@@ -9,7 +9,6 @@ B4rTux
 DiabloSeven
 K3vins
 Noxysis
-Sharwarmax
 Xios67
 Zyend
 _Ayod_
