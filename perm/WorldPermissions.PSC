@@ -31,6 +31,7 @@ Nutelex
 djpaolomilano
 
 >> ADMIN > dj+bar+secu
+Sharwarmax
 rajiokakumeifm
 
 >> BANNEDPLAYERS > Banned
