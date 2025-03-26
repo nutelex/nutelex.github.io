@@ -16,7 +16,6 @@ _Ayod_
 
 >> BAR > bar
 Venom_fireX
-anne_qc
 
 >> DJ > dj
 Kaids_
