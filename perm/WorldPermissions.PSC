@@ -12,7 +12,6 @@ Noxysis
 Xios67
 Zyend
 _Ayod_
-_SEYRU_
 ཐིคภย๒เรཋྀ
 
 >> BAR > bar
