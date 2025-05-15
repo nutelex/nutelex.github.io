@@ -9,6 +9,7 @@ B4rTux
 Colombe_privee
 DiabloSeven
 K3vins
+La Fraise 66
 Xios67
 Zyend
 _Ayod_
