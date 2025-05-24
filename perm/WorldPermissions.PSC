@@ -37,7 +37,6 @@ djpaolomilano
 >> ADMIN > dj+bar+secu
 Noxysis
 Sharwarmax
-anne_qc
 babiybouuh
 rajiokakumeifm
 
