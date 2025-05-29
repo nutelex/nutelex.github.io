@@ -36,7 +36,6 @@ Nutelex
 djpaolomilano
 
 >> ADMIN > dj+bar+secu
-*Mailys*
 Noxysis
 Sharwarmax
 babiybouuh
