@@ -8,6 +8,7 @@
 B4rTux
 Colombe_privee
 DiabloSeven
+Evilgate
 K3vins
 La Fraise 66
 Xios67
