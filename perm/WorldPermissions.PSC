@@ -6,7 +6,6 @@
 
 >> SECURITER > secu
 B4rTux
-Colombe_privee
 DiabloSeven
 Evilgate
 K3vins
