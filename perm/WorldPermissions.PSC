@@ -14,7 +14,6 @@ Xios67
 Zyend
 _Ayod_
 _ShinoGX_
-คкเк๏гค
 
 >> BAR > bar
 Calypsø
