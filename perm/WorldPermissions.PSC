@@ -32,6 +32,7 @@ Rirєx
 TR1CKL4SH
 TheCocasio
 alvr69
+zizi
 •KARMA•
 
 >> DIEUX > dj+bar+secu+spe
@@ -47,6 +48,4 @@ Sharwarmax
 babiybouuh
 ∗Mailys∗
 
->> DYSON > dg
-HinaDaydream
-°Chubby°
+>> BANNEDPLAYERS > Banned
