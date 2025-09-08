@@ -45,6 +45,7 @@ Ekzeur
 Noxysis
 Sharwarmax
 babiybouuh
+je brule ton cpu sur 6 generation
 ∗Mailys∗
 
 >> BANNEDPLAYERS > Banned
