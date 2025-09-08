@@ -14,7 +14,6 @@ Xios67
 Zyend
 _Ayod_
 _ShinoGX_
-pafman
 คкเк๏гค
 
 >> BAR > bar
