@@ -25,7 +25,6 @@ _SEYRU_
 nyxdenuit
 
 >> DJ > dj
-Kaids_
 L4CH4NC3
 Maylynna
 Rirєx
