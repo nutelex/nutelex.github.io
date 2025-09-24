@@ -46,11 +46,11 @@ Sharwarmax
 babiybouuh
 ∗Mailys∗
 
+>> BANNEDPLAYERS > Banned
+
 >> TIER1 > tier1
 
 >> TIER2 > tier1+tier2
 
 >> TIER3 > tier1+tier2+tier3
 chibrelex
-
->> BANNEDPLAYERS > Banned
