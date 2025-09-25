@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/25/25 09:52 PM - V1.4.0
+//VRCWMT - UTC 9/25/25 09:54 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -10,14 +10,41 @@ DiabloSeven
 Evilgate
 K3vins
 La Fraise 66
+Xios67
+Zyend
+_Ayod_
+_ShinoGX_
+คкเк๏гค
 
 >> BAR > bar
+Calypsø
+DreamsLike
+Kaméllia_billi
+Venom_fireX
+_SEYRU_
+nyxdenuit
 
 >> DJ > dj
+L4CH4NC3
+Maylynna
+Rirєx
+TR1CKL4SH
+TheCocasio
+alvr69
+•KARMA•
 
 >> DIEUX > dj+bar+secu+spe+t1+t2+t3
+Clem_BeatBox
+Givranuke
+Nutelex
+djpaolomilano
 
 >> ADMIN > dj+bar+secu
+Ekzeur
+Noxysis
+Sharwarmax
+babiybouuh
+∗Mailys∗
 
 >> BANNEDPLAYERS > t4
 
