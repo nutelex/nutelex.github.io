@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/25/25 08:53 PM - V1.4.0
+//VRCWMT - UTC 9/25/25 09:48 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -10,15 +10,15 @@
 
 >> DJ > dj
 
->> DIEUX > dj+bar+secu+spe
+>> DIEUX > dj+bar+secu+spe+t1+t2+t3
 
 >> ADMIN > dj+bar+secu
 
->> BANNEDPLAYERS > Banned
+>> BANNEDPLAYERS > t4
 
->> TIER1 > tier1
+>> TIER1 > t1
 
->> TIER2 > tier1+tier2
+>> TIER2 > t1+t2
 
->> TIER3 > tier1+tier2+tier3
+>> TIER3 > t1+t2+t3
 
