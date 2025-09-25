@@ -9,6 +9,7 @@ B4rTux
 DiabloSeven
 Evilgate
 K3vins
+La Fraise 66
 
 >> BAR > bar
 
