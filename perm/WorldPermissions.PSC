@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 11/6/25 09:39 AM - V1.4.0
+//VRCWMT - UTC 11/6/25 09:40 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -40,7 +40,6 @@ Nutelex
 djpaolomilano
 
 >> ADMIN > dj+bar+secu
-Ekzeur
 Noxysis
 Sharwarmax
 babiybouuh
