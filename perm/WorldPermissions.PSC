@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/6/25 10:16 PM - V1.4.0
+//VRCWMT - UTC 12/7/25 05:11 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -11,7 +11,6 @@ La Fraise 66
 Venom_fireX
 Xios67
 Zyend
-_Ayod_
 _ShinoGX_
 valentina_imp
 คкเк๏гค
