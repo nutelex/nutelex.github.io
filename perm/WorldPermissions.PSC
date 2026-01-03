@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 1/3/26 07:58 PM - V1.4.0
+//VRCWMT - UTC 1/3/26 09:13 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -24,6 +24,7 @@ _SEYRU_
 nyxdenuit
 
 >> DJ > dj
+Evilgate
 L4CH4NC3
 Maylynna
 Rirєx
