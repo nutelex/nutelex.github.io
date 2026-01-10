@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 1/10/26 09:32 PM - V1.4.0
+//VRCWMT - UTC 1/10/26 09:33 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -20,6 +20,7 @@ valentina_imp
 Calypsø
 DreamsLike
 Kaméllia_billi
+Lairiya
 _SEYRU_
 nyxdenuit
 
