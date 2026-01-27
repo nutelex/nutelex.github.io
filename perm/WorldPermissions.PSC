@@ -1,12 +1,11 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 1/27/26 08:52 PM - V1.4.0
+//VRCWMT - UTC 1/27/26 08:55 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> SECURITER > secu
 DiabloSeven
-Evilgate
 La Fraise 66
 Venom_fireX
 Xios67
