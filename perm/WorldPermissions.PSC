@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 2/1/26 02:36 AM - V1.4.0
+//VRCWMT - UTC 2/1/26 02:37 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -33,6 +33,7 @@ TR1CKL4SH
 TheCocasio
 alvr69
 molresa
+moxxel
 tekitoah
 •KARMA•
 
