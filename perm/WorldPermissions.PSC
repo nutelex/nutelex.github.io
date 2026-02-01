@@ -8,7 +8,6 @@
 DiabloSeven
 Venom_fireX
 Xios67
-_ShinoGX_
 valentina_imp
 คкเк๏гค
 
