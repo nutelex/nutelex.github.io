@@ -6,7 +6,6 @@
 
 >> SECURITER > secu
 DiabloSeven
-La Fraise 66
 Venom_fireX
 Xios67
 _ShinoGX_
