@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 2/1/26 02:39 AM - V1.4.0
+//VRCWMT - UTC 2/21/26 09:06 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -9,7 +9,6 @@ DiabloSeven
 Venom_fireX
 Xios67
 valentina_imp
-คкเк๏гค
 
 >> BAR > bar
 Calypsø
