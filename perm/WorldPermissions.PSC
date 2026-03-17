@@ -17,7 +17,6 @@ Kaméllia_billi
 Lairiya
 _SEYRU_
 nyxdenuit
-testoresso
 
 >> DJ > dj
 Evilgate
