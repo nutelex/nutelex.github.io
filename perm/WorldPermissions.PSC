@@ -51,7 +51,6 @@ babiybouuh
 ∗Mailys∗
 
 >> BANNEDPLAYERS > t4
-test gros paf
 
 >> TIER1 > t1
 
