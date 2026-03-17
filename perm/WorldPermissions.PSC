@@ -53,7 +53,6 @@ babiybouuh
 ∗Mailys∗
 
 >> BANNEDPLAYERS > t4
-roberteeesstt
 
 >> TIER1 > t1
 
