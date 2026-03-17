@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 3/17/26 10:03 AM - V1.4.0
+//VRCWMT - UTC 3/17/26 10:05 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -51,7 +51,6 @@ babiybouuh
 ∗Mailys∗
 
 >> BANNEDPLAYERS > t4
-cejkhfguksheukghukrhguoishdergulikhesuirhguier
 chibreTest
 test gros paf
 
