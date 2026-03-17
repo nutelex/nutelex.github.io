@@ -169,13 +169,6 @@
       ]
     },
     {
-      "name": "michel test",
-      "perm": [
-        "dj",
-        "r"
-      ]
-    },
-    {
       "name": "molresa",
       "perm": [
         "dj"
