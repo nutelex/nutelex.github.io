@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 3/17/26 11:01 AM - V1.4.0
+//VRCWMT - UTC 3/17/26 01:40 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -32,13 +32,15 @@ romain599
 tekitoah
 •KARMA•
 
->> DIEUX > dj+bar+secu+spe+t1+t2+t3
+>> DIEUX > dj+bar+secu+spe+t1+t2+t3+ad+r
 Clem_BeatBox
 Givranuke
 Nutelex
 djpaolomilano
 
->> ADMIN > dj+bar+secu
+>> REGI > dj+r
+
+>> ADMIN > dj+bar+secu+ad+r
 B4rTux
 Gl1tchT3k
 K3vins
@@ -51,6 +53,7 @@ babiybouuh
 ∗Mailys∗
 
 >> BANNEDPLAYERS > t4
+roberteeesstt
 
 >> TIER1 > t1
 
