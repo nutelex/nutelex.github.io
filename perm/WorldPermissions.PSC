@@ -39,7 +39,6 @@ Nutelex
 djpaolomilano
 
 >> REGI > dj+r
-regiman
 
 >> ADMIN > dj+bar+secu+ad+r
 B4rTux
