@@ -287,6 +287,16 @@
       ]
     },
     {
+      "name": "UMClub",
+      "perm": [
+        "dj",
+        "bar",
+        "secu",
+        "ad",
+        "r"
+      ]
+    },
+    {
       "name": "valentina_imp",
       "perm": [
         "secu"
