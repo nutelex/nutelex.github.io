@@ -167,6 +167,16 @@
       ]
     },
     {
+      "name": "La Chevre",
+      "perm": [
+        "dj",
+        "bar",
+        "secu",
+        "ad",
+        "r"
+      ]
+    },
+    {
       "name": "Lairiya",
       "perm": [
         "bar"
