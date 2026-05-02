@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 5/1/26 05:32 PM - V1.4.0
+//VRCWMT - UTC 5/2/26 08:24 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -42,7 +42,6 @@ djpaolomilano
 >> REGI > dj+r
 
 >> ADMIN > dj+bar+secu+ad+r
-Ad Loud
 B4rTux
 Gl1tchT3k
 K3vins
