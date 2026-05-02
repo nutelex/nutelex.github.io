@@ -45,7 +45,6 @@ djpaolomilano
 B4rTux
 Gl1tchT3k
 K3vins
-La Chevre
 Noa-Pink
 Noxysis
 Sharwarmax
