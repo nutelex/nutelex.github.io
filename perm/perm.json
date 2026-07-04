@@ -129,6 +129,12 @@
       ]
     },
     {
+      "name": "KakoStary",
+      "perm": [
+        "secu"
+      ]
+    },
+    {
       "name": "Kaméllia_billi",
       "perm": [
         "bar"
