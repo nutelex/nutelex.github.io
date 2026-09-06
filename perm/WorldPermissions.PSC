@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/6/26 11:35 PM - V1.4.0
+//VRCWMT - UTC 9/6/26 11:37 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -48,7 +48,6 @@ K3vins
 Noa-Pink
 Noxysis
 Sharwarmax
-Teressa_art
 ∗Mailys∗
 
 >> BANNEDPLAYERS > t4
