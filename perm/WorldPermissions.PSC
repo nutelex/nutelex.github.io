@@ -18,7 +18,6 @@ King Red80
 Lairiya
 Teressa_art
 _SEYRU_
-kritika_vrcity
 nyxdenuit
 
 >> DJ > dj
