@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/5/26 12:19 PM - V1.4.0
+//VRCWMT - UTC 10/5/26 12:20 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -19,6 +19,7 @@ King Red80
 Lairiya
 Teressa_art
 _SEYRU_
+kritika_vrcity
 nyxdenuit
 
 >> DJ > dj

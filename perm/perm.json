@@ -145,7 +145,8 @@
     {
       "name": "kritika_vrcity",
       "perm": [
-        "secu"
+        "secu",
+        "bar"
       ]
     },
     {
