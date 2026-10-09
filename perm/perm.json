@@ -291,6 +291,16 @@
       ]
     },
     {
+      "name": "UMClub",
+      "perm": [
+        "dj",
+        "bar",
+        "secu",
+        "ad",
+        "r"
+      ]
+    },
+    {
       "name": "Venom_fireX",
       "perm": [
         "secu"
