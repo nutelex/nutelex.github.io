@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/9/26 07:18 PM - V1.4.0
+//VRCWMT - UTC 10/13/26 02:24 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -21,7 +21,6 @@ nyxdenuit
 oOCELESTIAOo
 
 >> DJ > dj
-DJ Jigsaw
 JIGSAW
 L4CH4NC3
 Maylynna
