@@ -21,7 +21,6 @@ nyxdenuit
 oOCELESTIAOo
 
 >> DJ > dj
-JIGSAW
 L4CH4NC3
 Maylynna
 Mikeythemaniac
