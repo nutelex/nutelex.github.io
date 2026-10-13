@@ -49,7 +49,6 @@ B4rTux
 Gl1tchT3k
 K3vins
 Kritika-VRcity
-La Chevre
 Noa-Pink
 Noxysis
 Sharwarmax
