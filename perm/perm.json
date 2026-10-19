@@ -119,6 +119,20 @@
       ]
     },
     {
+      "name": "K3vins",
+      "perm": [
+        "dj",
+        "bar",
+        "secu",
+        "spe",
+        "t1",
+        "t2",
+        "t3",
+        "ad",
+        "r"
+      ]
+    },
+    {
       "name": "KakoStary",
       "perm": [
         "secu"
