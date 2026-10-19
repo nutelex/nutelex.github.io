@@ -1,16 +1,14 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/19/26 09:00 PM - V1.4.0
+//VRCWMT - UTC 10/19/26 09:03 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> SECURITER > secu
-Givranuke
 K3vins
 KakoStary
 Kritika-VRcity
 Noxysis
-Nutelex
 Sharwarmax
 Valentina_imp
 Venom_fireX
@@ -33,7 +31,6 @@ oOCELESTIAOo
 
 >> DJ > dj
 ADJNamedSihloh
-Clem_BeatBox
 CЯ3ΛTIV_SPIЯIT
 DJKILL3R
 DJ_Hellmet
@@ -45,7 +42,6 @@ Lυʅυ ԋυɠ ʅσʋҽɾ
 Maylynna
 Mikeythemaniac
 NekohitaTenko
-Nutelex
 PIKYES
 Rirєx
 Rir€x
@@ -57,7 +53,6 @@ TontonDemon
 Valentina_imp
 alvr69
 ardx
-djpaolomilano
 jtt16200
 moxxel
 romain599
