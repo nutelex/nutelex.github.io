@@ -62,6 +62,3 @@ UMClub
 
 >> TIER3 > t1+t2+t3
 
->> DANSEUR > ad+t2
-K3vins
-
