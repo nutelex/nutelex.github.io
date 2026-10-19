@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/19/26 08:37 PM - V1.4.0
+//VRCWMT - UTC 10/19/26 08:40 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -65,7 +65,6 @@ tekitoah
 >> DIEUX > dj+bar+secu+spe+t1+t2+t3+ad+r
 Clem_BeatBox
 Givranuke
-K3vins
 Nutelex
 djpaolomilano
 
