@@ -15,9 +15,9 @@
     {
       "name": "∗Mailys∗",
       "perm": [
+        "secu",
         "dj",
         "bar",
-        "secu",
         "ad",
         "r"
       ]
@@ -30,6 +30,12 @@
         "secu",
         "ad",
         "r"
+      ]
+    },
+    {
+      "name": "ADJNamedSihloh",
+      "perm": [
+        "dj"
       ]
     },
     {
@@ -75,6 +81,24 @@
       ]
     },
     {
+      "name": "CЯ3ΛTIV_SPIЯIT",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
+      "name": "DJ_Hellmet",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
+      "name": "DJKILL3R",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
       "name": "djpaolomilano",
       "perm": [
         "dj",
@@ -95,11 +119,23 @@
       ]
     },
     {
+      "name": "Ekzeur",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
+      "name": "ElPutoPuto",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
       "name": "Givranuke",
       "perm": [
+        "secu",
         "dj",
         "bar",
-        "secu",
         "spe",
         "t1",
         "t2",
@@ -119,17 +155,29 @@
       ]
     },
     {
+      "name": "jtt16200",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
       "name": "K3vins",
       "perm": [
-        "dj",
-        "bar",
         "secu",
+        "bar",
+        "dj",
         "spe",
         "t1",
         "t2",
         "t3",
         "ad",
         "r"
+      ]
+    },
+    {
+      "name": "kako_stary",
+      "perm": [
+        "secu"
       ]
     },
     {
@@ -153,9 +201,9 @@
     {
       "name": "Kritika-VRcity",
       "perm": [
-        "dj",
-        "bar",
         "secu",
+        "bar",
+        "dj",
         "ad",
         "r"
       ]
@@ -167,9 +215,21 @@
       ]
     },
     {
+      "name": "La Chevre",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
       "name": "Lairiya",
       "perm": [
         "bar"
+      ]
+    },
+    {
+      "name": "Lυʅυ ԋυɠ ʅσʋҽɾ",
+      "perm": [
+        "dj"
       ]
     },
     {
@@ -191,6 +251,12 @@
       ]
     },
     {
+      "name": "NekohitaTenko",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
       "name": "Noa-Pink",
       "perm": [
         "dj",
@@ -203,9 +269,9 @@
     {
       "name": "Noxysis",
       "perm": [
+        "secu",
         "dj",
         "bar",
-        "secu",
         "ad",
         "r"
       ]
@@ -213,9 +279,9 @@
     {
       "name": "Nutelex",
       "perm": [
+        "secu",
         "dj",
         "bar",
-        "secu",
         "spe",
         "t1",
         "t2",
@@ -243,6 +309,12 @@
       ]
     },
     {
+      "name": "Rir€x",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
       "name": "Rirєx",
       "perm": [
         "dj"
@@ -257,11 +329,17 @@
     {
       "name": "Sharwarmax",
       "perm": [
+        "secu",
         "dj",
         "bar",
-        "secu",
         "ad",
         "r"
+      ]
+    },
+    {
+      "name": "Siinaro",
+      "perm": [
+        "dj"
       ]
     },
     {
@@ -283,6 +361,12 @@
       ]
     },
     {
+      "name": "TontonDemon",
+      "perm": [
+        "dj"
+      ]
+    },
+    {
       "name": "TR1CKL4SH",
       "perm": [
         "dj"
@@ -296,6 +380,13 @@
         "secu",
         "ad",
         "r"
+      ]
+    },
+    {
+      "name": "Valentina_imp",
+      "perm": [
+        "secu",
+        "dj"
       ]
     },
     {
