@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/19/26 08:15 PM - V1.4.0
+//VRCWMT - UTC 10/19/26 08:16 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -62,6 +62,6 @@ UMClub
 
 >> TIER3 > t1+t2+t3
 
->> DANSEUR > ad
+>> DANSEUR > ad+t2
 K3vins
 
