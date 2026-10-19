@@ -1,11 +1,10 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/19/26 09:05 PM - V1.4.0
+//VRCWMT - UTC 10/19/26 09:04 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> SECURITER > secu
-K3vins
 KakoStary
 Kritika-VRcity
 Noxysis
@@ -19,7 +18,6 @@ kako_stary
 >> BAR > bar
 Calypsø
 DreamsLike
-K3vins
 Kaméllia_billi
 King Red80
 Kritika-VRcity
