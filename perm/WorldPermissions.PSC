@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/19/26 09:04 PM - V1.4.0
+//VRCWMT - UTC 10/19/26 09:06 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -22,7 +22,6 @@ Kaméllia_billi
 King Red80
 Kritika-VRcity
 Lairiya
-Teressa_art
 _SEYRU_
 nyxdenuit
 oOCELESTIAOo
