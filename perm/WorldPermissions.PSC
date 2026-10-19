@@ -6,7 +6,6 @@
 
 >> SECURITER > secu
 Givranuke
-K3vins
 KakoStary
 Kritika-VRcity
 Noxysis
