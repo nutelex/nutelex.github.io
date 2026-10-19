@@ -163,6 +163,7 @@
     {
       "name": "K3vins",
       "perm": [
+        "secu",
         "bar"
       ]
     },
