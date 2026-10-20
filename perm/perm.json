@@ -15,9 +15,9 @@
     {
       "name": "∗Mailys∗",
       "perm": [
-        "secu",
         "dj",
         "bar",
+        "secu",
         "ad",
         "r"
       ]
@@ -201,9 +201,9 @@
     {
       "name": "Kritika-VRcity",
       "perm": [
-        "secu",
-        "bar",
         "dj",
+        "bar",
+        "secu",
         "ad",
         "r"
       ]
@@ -269,9 +269,9 @@
     {
       "name": "Noxysis",
       "perm": [
-        "secu",
         "dj",
         "bar",
+        "secu",
         "ad",
         "r"
       ]
@@ -323,9 +323,9 @@
     {
       "name": "Sharwarmax",
       "perm": [
-        "secu",
         "dj",
         "bar",
+        "secu",
         "ad",
         "r"
       ]
@@ -373,8 +373,7 @@
     {
       "name": "Valentina_imp",
       "perm": [
-        "secu",
-        "dj"
+        "secu"
       ]
     },
     {
