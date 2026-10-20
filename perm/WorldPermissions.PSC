@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/19/26 09:06 PM - V1.4.0
+//VRCWMT - UTC 10/20/26 05:12 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -40,7 +40,6 @@ Maylynna
 Mikeythemaniac
 NekohitaTenko
 PIKYES
-Rirєx
 Rir€x
 Sharwarmax
 Siinaro
