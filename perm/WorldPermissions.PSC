@@ -12,7 +12,6 @@ Xios67
 >> BAR > bar
 Calypsø
 DreamsLike
-K3vins
 Kaméllia_billi
 King Red80
 Lairiya
@@ -22,7 +21,6 @@ nyxdenuit
 oOCELESTIAOo
 
 >> DJ > dj
-K3vins
 L4CH4NC3
 Maylynna
 Mikeythemaniac
