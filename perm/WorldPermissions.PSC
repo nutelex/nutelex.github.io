@@ -1,55 +1,35 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/20/26 05:21 PM - V1.4.0
+//VRCWMT - UTC 10/20/26 06:04 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> SECURITER > secu
 KakoStary
-Kritika-VRcity
-Noxysis
-Sharwarmax
-Valentina_imp
 Venom_fireX
 Xios67
-kako_stary
-∗Mailys∗
 
 >> BAR > bar
 Calypsø
 DreamsLike
 Kaméllia_billi
 King Red80
-Kritika-VRcity
 Lairiya
+Teressa_art
 _SEYRU_
 nyxdenuit
 oOCELESTIAOo
 
 >> DJ > dj
-ADJNamedSihloh
-CЯ3ΛTIV_SPIЯIT
-DJKILL3R
-DJ_Hellmet
-Ekzeur
-ElPutoPuto
 L4CH4NC3
-La Chevre
-Lυʅυ ԋυɠ ʅσʋҽɾ
 Maylynna
 Mikeythemaniac
-NekohitaTenko
 PIKYES
-Rir€x
-Sharwarmax
-Siinaro
+Rirєx
 TR1CKL4SH
 TheCocasio
-TontonDemon
-Valentina_imp
 alvr69
 ardx
-jtt16200
 moxxel
 romain599
 tekitoah
@@ -58,11 +38,8 @@ tekitoah
 >> DIEUX > dj+bar+secu+spe+t1+t2+t3+ad+r
 Clem_BeatBox
 Givranuke
-K3vins
 Nutelex
 djpaolomilano
-
->> REGI > dj+r
 
 >> ADMIN > dj+bar+secu+ad+r
 Ad Loud
