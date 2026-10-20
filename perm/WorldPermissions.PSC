@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/20/26 07:14 PM - V1.4.0
+//VRCWMT - UTC 10/20/26 07:20 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -15,7 +15,6 @@ DreamsLike
 Kaméllia_billi
 King Red80
 Lairiya
-Teressa_art
 _SEYRU_
 nyxdenuit
 oOCELESTIAOo
@@ -59,4 +58,8 @@ UMClub
 >> TIER2 > t1+t2
 
 >> TIER3 > t1+t2+t3
+
+>> PHOTOGRAPHE > pho
+
+>> DANSER > dan
 
