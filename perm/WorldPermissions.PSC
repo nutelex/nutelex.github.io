@@ -24,7 +24,6 @@ L4CH4NC3
 Maylynna
 Mikeythemaniac
 PIKYES
-Rirєx
 Rir€x
 TR1CKL4SH
 TheCocasio
