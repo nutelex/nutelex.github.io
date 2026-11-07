@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 11/7/26 12:06 AM - V1.4.0
+//VRCWMT - UTC 11/7/26 12:12 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -19,6 +19,7 @@ _SEYRU_
 nyxdenuit
 
 >> DJ > dj
+CoulisdeChauffe
 L4CH4NC3
 Lυʅυ ԋυɠ ʅσʋҽɾ
 Maylynna
@@ -32,6 +33,7 @@ ardx
 moxxel
 romain599
 tekitoah
+੭ Kyu
 •KARMA•
 
 >> DIEUX > dj+bar+secu+pho+dan+spe+t1+t2+t3+ad
@@ -40,7 +42,6 @@ Givranuke
 K3vins
 Nutelex
 djpaolomilano
-∗Mailys∗
 
 >> ADMIN > dj+bar+secu+pho+dan+ad
 Ad Loud
