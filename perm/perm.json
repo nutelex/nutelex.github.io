@@ -20,11 +20,13 @@
         "secu",
         "pho",
         "dan",
-        "spe",
-        "t1",
-        "t2",
-        "t3",
         "ad"
+      ]
+    },
+    {
+      "name": "੭ Kyu",
+      "perm": [
+        "dj"
       ]
     },
     {
@@ -80,6 +82,12 @@
         "t2",
         "t3",
         "ad"
+      ]
+    },
+    {
+      "name": "CoulisdeChauffe",
+      "perm": [
+        "dj"
       ]
     },
     {
