@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 11/11/26 09:24 PM - V1.4.0
+//VRCWMT - UTC 11/14/26 10:03 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -52,6 +52,7 @@ Noa-Pink
 Noxysis
 Sharwarmax
 UMClub
+kako_stary
 ∗Mailys∗
 
 >> vip > t4
