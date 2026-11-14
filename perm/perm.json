@@ -211,6 +211,17 @@
       ]
     },
     {
+      "name": "masyca",
+      "perm": [
+        "dj",
+        "bar",
+        "secu",
+        "pho",
+        "dan",
+        "ad"
+      ]
+    },
+    {
       "name": "Maylynna",
       "perm": [
         "dj"
