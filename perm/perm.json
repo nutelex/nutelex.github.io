@@ -153,6 +153,17 @@
       ]
     },
     {
+      "name": "kako_stary",
+      "perm": [
+        "dj",
+        "bar",
+        "secu",
+        "pho",
+        "dan",
+        "ad"
+      ]
+    },
+    {
       "name": "KakoStary",
       "perm": [
         "secu"
