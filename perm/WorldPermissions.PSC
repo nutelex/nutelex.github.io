@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 11/14/26 10:09 PM - V1.4.0
+//VRCWMT - UTC 11/23/26 01:50 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -66,7 +66,6 @@ masyca
 
 >> PHOTOGRAPHE > pho
 Olynox
-Tayron-vrc
 
 >> DANSER > dan
 
